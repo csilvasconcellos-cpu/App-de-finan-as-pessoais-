@@ -1,0 +1,5 @@
+{
+  "name": "SimpliFinance",
+  "description": "Um aplicativo de finanças pessoais elegante e intuitivo focado na gestão mensal, com replicação automática de despesas fixas e pendências.",
+  "requestFramePermissions": []
+}
